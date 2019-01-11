@@ -1,4 +1,4 @@
-Modules installed:
+Libraries installed:
 1) tweepy
 2) sys
 3) json
